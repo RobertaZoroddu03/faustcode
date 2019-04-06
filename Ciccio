@@ -1,0 +1,3 @@
+cimport("stdfaust.lib");
+process = +;
+			
